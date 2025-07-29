@@ -1,12 +1,12 @@
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👾+Kulwinder+Kour+%7C+The+Code+Maverick;Crafting+digital+experiences;" alt
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👾+Kulwinder+Kour+%7C+The+Code+Maverick;Crafting+digital+experiences;Coding+with+a+creative+spark!;" alt
 
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kulwinderkour&color=000080&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kulwinderkour&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
