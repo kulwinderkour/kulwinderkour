@@ -133,7 +133,7 @@ const kulwinder = {
   
   **Congratulations! You found the hidden section! 🎊**
   
-  Thanks for scrolling so far! Drop me a DM collaboration!
+  Thanks for scrolling so far! Drop me a DM for collaboration!
   
   *P.S. - I love connecting with fellow developers who pay attention to details! 😉*
 </div>
