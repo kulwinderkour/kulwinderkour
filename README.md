@@ -1,11 +1,3 @@
-<!-- Custom Cyber-Sleuth Banner -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kulwinderkour/kulwinderkour/main/assets/cyber-sleuth-banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kulwinderkour/kulwinderkour/main/assets/cyber-sleuth-banner-light.svg">
-    <img alt="Kulwinder Kour - The Code Maverick" src="https://raw.githubusercontent.com/kulwinderkour/kulwinderkour/main/assets/cyber-sleuth-banner-dark.svg" width="100%">
-  </picture>
-</p>
 
 <!-- Animated Typing Effect -->
 <p align="center">
@@ -100,16 +92,8 @@ const kulwinder = {
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kulwinderkour&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulwinderkour&layout=compact&langs_count=8&theme=tokyonight&hide=typescript"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kulwinderkour&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
@@ -122,16 +106,9 @@ const kulwinder = {
 
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kulwinderkour&repo=YOUR_MAIN_PROJECT&theme=tokyonight)](https://github.com/kulwinderkour/YOUR_MAIN_PROJECT)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kulwinderkour&repo=YOUR_SECOND_PROJECT&theme=tokyonight)](https://github.com/kulwinderkour/YOUR_SECOND_PROJECT)
+[![ReadMe Card](https://vectorshift-workflow-builder.vercel.app/api/pin/?username=kulwinderkour&repo=YOUR_MAIN_PROJECT&theme=tokyonight)](https://github.com/kulwinderkour/Workflow-builder)
+[![ReadMe Card](https://reilient-email-service.netlify.app/api/pin/?username=kulwinderkour&repo=YOUR_SECOND_PROJECT&theme=tokyonight)]
 
-</div>
-
----
-
-## 🎵 Spotify Playing
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
 </div>
 
 ---
@@ -140,7 +117,6 @@ const kulwinder = {
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Obsessed%20with%20building,%20mentoring%20and%20shipping%20digital%20magic!" alt="Quote" />
 </div>
-
 ---
 
 ## 🎮 When I'm Not Coding
