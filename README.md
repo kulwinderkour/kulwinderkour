@@ -100,16 +100,7 @@ const kulwinder = {
   <img src="https://github-profile-trophy.vercel.app/?username=kulwinderkour&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
----
 
-## 🎯 Current Projects & Contributions
-
-<div align="center">
-  
-[![ReadMe Card](https://vectorshift-workflow-builder.vercel.app/api/pin/?username=kulwinderkour&repo=YOUR_MAIN_PROJECT&theme=tokyonight)](https://github.com/kulwinderkour/Workflow-builder)
-[![ReadMe Card](https://reilient-email-service.netlify.app/api/pin/?username=kulwinderkour&repo=YOUR_SECOND_PROJECT&theme=tokyonight)]
-
-</div>
 
 ---
 
@@ -142,7 +133,7 @@ const kulwinder = {
   
   **Congratulations! You found the hidden section! 🎊**
   
-  Thanks for scrolling so far! Drop me a DM with the codeword **"Maverick"** for a surprise collaboration opportunity!
+  Thanks for scrolling so far! Drop me a DM collaboration!
   
   *P.S. - I love connecting with fellow developers who pay attention to details! 😉*
 </div>
