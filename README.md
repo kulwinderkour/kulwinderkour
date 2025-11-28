@@ -1,7 +1,7 @@
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👾+Kulwinder+Kour+%7C;Crafting+digital+experiences;Coding+with+a+creative+spark!;" alt
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👾+Kulwinder+Kour;Crafting+digital+experiences;Coding+with+a+creative+spark!;" alt
 
 
 <!-- Profile Views Counter -->
@@ -24,19 +24,6 @@
 
 ---
 
-## 🎲 Did You Know?
-
-<details>
-<summary>💡 Click to reveal some fun facts about me!</summary>
-
-- 🧠 I love solving brain-teasers and logic puzzles—challenge me anytime!
-- 🏕️ My best ideas often come during long walks or late-night coding sprints
-- 📚 I read about psychology, design, and AI to blend tech and humanity in my projects
-- 🤖 I'm building my own productivity bot (DM if you want early access!)
-
-</details>
-
----
 
 ## 🚀 Tech Arsenal
 
@@ -116,29 +103,10 @@ const kulwinder = {
 
 - 🎯 Solving logic puzzles and brain teasers
 - 📚 Reading about psychology and design
-- 🚶‍♀️ Long walks for inspiration
 - 🎮 Gaming (strategy games are my favorite!)
 - 🤖 Experimenting with AI and automation
 - 🎨 UI/UX design and prototyping
 
----
-
-<!-- Easter Egg Section -->
-<details>
-<summary>🎉 Secret Message (Click to reveal!)</summary>
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="200">
-  
-  **Congratulations! You found the hidden section! 🎊**
-  
-  Thanks for scrolling so far! Drop me a DM for collaboration!
-  
-  *P.S. - I love connecting with fellow developers who pay attention to details! 😉*
-</div>
-
-</details>
 
 ---
 
