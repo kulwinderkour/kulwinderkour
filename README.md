@@ -1,10 +1,33 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Kulwinder Kour, Backend Developer" width="100%" />
+<h1>Hi 👋, I'm Kulwinder Kour</h1>
 
-### 🎓 Computer Science Engineering student &nbsp;•&nbsp; 💻 Aspiring Backend Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=800&height=50&lines=Backend+Developer;Python+%7C+FastAPI+%7C+Node.js;Building+REST+APIs+%26+AI-powered+apps" alt="Typing animation: Backend Developer, Python, FastAPI, Node.js" />
 
-*Building reliable backend systems, REST APIs and AI-powered applications.*
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Open to work](https://img.shields.io/badge/OPEN_TO_WORK-Entry--Level_Backend_Roles-2EA043?style=for-the-badge&labelColor=0D1117)
+
+<br>
+
+*Computer Science Engineering student building reliable backend systems, REST APIs and AI-powered applications.*
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">🎓<br><b>Education</b><br><sub>B.Tech CSE<br>Lovely Professional University</sub></td>
+    <td align="center" width="200">💻<br><b>Role</b><br><sub>Backend Developer<br>Python • FastAPI • Node.js</sub></td>
+    <td align="center" width="200">🎯<br><b>Focus</b><br><sub>REST APIs<br>AI-powered applications</sub></td>
+    <td align="center" width="200">🚀<br><b>Looking for</b><br><sub>Junior Backend Developer<br>Python Developer<br>Graduate Software Engineer</sub></td>
+  </tr>
+</table>
 
 <br>
 
@@ -152,6 +175,6 @@ class Kulwinder:
 
 📧 [kkour8585@gmail.com](mailto:kkour8585@gmail.com) &nbsp;•&nbsp; 💼 [LinkedIn](https://linkedin.com/in/kulwinderkour) &nbsp;•&nbsp; 🌐 [Portfolio](https://portfolio-flame-delta-kwbfgs01fh.vercel.app/)
 
-<img src="assets/footer.svg" alt="Thanks for visiting" width="100%" />
+**Thanks for visiting. Let's build something great together.** 🚀
 
 </div>
