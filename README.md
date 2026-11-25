@@ -116,19 +116,6 @@ class Kulwinder:
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 
 <br>
-
-### 🗂️ [LUMINA: AI Directory Management System](https://github.com/kulwinderkour/AI-Directory-Managment-System)
-*An AI-powered file organization system that turns chaotic directories into a clean, logical folder hierarchy.*
-
-- 🧠 **AI-powered organization:** a FastAPI backend scans and extracts file content, then uses an AI model to build a structured three-level hierarchy.
-- 🔍 **Semantic search:** find files using natural language, backed by embeddings stored in ChromaDB.
-- 🌐 **Dual AI support:** switch between a local model (Ollama) and a cloud model (Gemini) through one setting.
-- 📄 **Document processing:** client-side parsing of PDFs, Word documents and images (PDF.js, Mammoth.js, Tesseract.js).
-- 📦 **Export and history:** download organized results as a ZIP or write them back to the file system, and revisit past collections.
-- 🖥️ **Desktop and web:** React client with an Electron desktop wrapper, plus Docker and cloud-deploy configuration.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
 <br>
 
 ## **💼 Experience**
